@@ -15,7 +15,10 @@
                                 <form @submit="searchSubmit" action="javascript:return true;">
                                     <input type="search"
                                            placeholder="请输入搜索内容"
-                                           @focus="focusFun"
+                                           @focus="fo
+
+
+                                           cusFun"
                                            @blur="blurFun"
                                            v-model="inputContent"
                                            autocomplete="off"

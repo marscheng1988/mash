@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+  <meta charset="utf-8">
+  <title>zfweb</title>
+  <!--<script type="text/javascript" src="http://cdn.webfont.youziku.com/wwwroot/js/wf/youziku.api.min.js"></script>-->
+  <style>
+    *{
+      padding: 0;
+      margin: 0;
+    }
+  </style>
+  <script>
+    var setREM = function(){
+      var width = window.innerWidth/6.4;
+      document.getElementsByTagName('html')[0].style.fontSize =  width + 'px';
+
+    };
+    window.addEventListener('resize', function(){
+      setREM();
+    })
+    setREM();
+    //定义七牛云img路径
+//    var IMG_URL = 'http://or22sodpt.bkt.clouddn.com/';
+    var IMG_URL = 'http://img.chinazhoufan.com/';
+
+        var CTX_URL = '/zf-index';
+//        const CTX_URL = 'http://192.168.1.210:8086/zf-index';
+//              const CTX_URL = 'http://www.chinazhoufan.com';
+    //    var CTX_URL = 'http://192.168.1.83:8081/zf-index';
+    //    var CTX_URL = 'http://192.168.1.80:8081/zf-index'; //晓东
+    //    var CTX_URL = 'http://192.168.1.39:8080/zf-index'; //晓东
+    //    var CTX_URL = 'http://192.168.1.70:8081/zf-index'; //鹏爷
+
+  </script>
+</head>
+<body>
+<div id="app"></div>
+
+</body>
+</html>

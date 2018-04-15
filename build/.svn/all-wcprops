@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/zfwebProject/!svn/ver/2/zfweb/build
+END
+dev-client.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/zfwebProject/!svn/ver/2/zfweb/build/dev-client.js
+END
+utils.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/zfwebProject/!svn/ver/2/zfweb/build/utils.js
+END
+webpack.base.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/zfwebProject/!svn/ver/2/zfweb/build/webpack.base.conf.js
+END
+check-versions.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/zfwebProject/!svn/ver/2/zfweb/build/check-versions.js
+END
+webpack.dev.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/zfwebProject/!svn/ver/2/zfweb/build/webpack.dev.conf.js
+END
+build.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/zfwebProject/!svn/ver/2/zfweb/build/build.js
+END
+dev-server.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/zfwebProject/!svn/ver/2/zfweb/build/dev-server.js
+END
+webpack.prod.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/zfwebProject/!svn/ver/2/zfweb/build/webpack.prod.conf.js
+END
+vue-loader.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/zfwebProject/!svn/ver/2/zfweb/build/vue-loader.conf.js
+END

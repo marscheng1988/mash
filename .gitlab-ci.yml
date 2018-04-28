@@ -1,0 +1,14 @@
+
+pages:
+  script:
+    - npm run gitlab:doc
+  artifacts:
+    paths:
+      - public
+  only:
+    - develop
+rspec:
+  script:
+    - gitbook init
+    - gitbook build
+    - sh start.sh
